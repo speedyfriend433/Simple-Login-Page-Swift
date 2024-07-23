@@ -20,7 +20,7 @@ This is a SwiftUI-based SignIn application that supports user registration, logi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SignInApp.git
+    git clone https://github.com/speedyfriend67/SignInApp.git
     ```
 2. Open the project in Xcode:
     ```bash
